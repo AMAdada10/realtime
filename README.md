@@ -1,1 +1,2 @@
-# realtime
+# synchronousBallMovement
+Ball moving synchronously
